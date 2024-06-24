@@ -1,6 +1,6 @@
 # Credit Card Approval Prediction
 
-Predicting credit card approval using machine learning models.
+The Credit Card Approval Automation project aims to streamline and enhance the process of approving credit card applications by leveraging machine learning techniques. This solution automates the decision-making process, improving efficiency and reducing manual intervention.
 
 ## Table of Contents
 
